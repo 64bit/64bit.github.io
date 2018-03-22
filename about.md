@@ -5,8 +5,9 @@ permalink: /about/
 author: Himanshu  
 ---
 
-Go is a wonderful language, I had my aha moment with the language
-when I wrote a "Hello World" of http server and ran apache benchmark (ab).
+[Go](https://golang.org/) is a wonderful language, I had my aha moment with the language
+when I wrote a "Hello World" of http server and ran
+[ApacheBench tool](https://httpd.apache.org/docs/2.4/programs/ab.html) (ab).
 The aha moment was seeing that a simple program can handle thousands of requests per second.
 
 {% highlight go %}
