@@ -18,7 +18,7 @@ package main
 import "fmt"
 
 func main() {
-    // print on a new line
+    // print a line
     fmt.Println("Hello World!")
 }
 
